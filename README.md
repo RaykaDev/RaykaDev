@@ -75,4 +75,5 @@ No momento, meu objetivo é <strong>consolidar bem a base</strong>, evoluindo gr
   </picture>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=00008B"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=00008B&section=footer"/>
+
