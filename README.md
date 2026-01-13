@@ -1,11 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=DBDB00"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=00008B"/>
+
+<br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Banner do perfil" />
 </p>
-
-<br>
-<br>
 
 <div align="center" width="150%">
   <img src="https://readme-typing-svg.herokuapp.com?font=Yusei+Magic&weight=700&pause=1000&color=EC1392&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Rayssa.;Estudante+de+desenvolvimento+Full+Stack+"/>
@@ -70,11 +69,9 @@ No momento, meu objetivo é <strong>consolidar bem a base</strong>, evoluindo gr
 <br>
 
 <div align="center">
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaykaDev/RaykaDev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaykaDev/RaykaDev/output/github-contribution-grid-snake-dark.svg">
-    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RaykaDev/RaykaDev/output/github-contribution-grid-snake.svg">
-  </picture>
+  
+ <img src="https://raw.githubusercontent.com/RaykaDev/RaykaDev/output/snake.svg" alt="Snake animation" />
+ 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=FFFF00&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=00008B"/>
