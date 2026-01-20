@@ -62,7 +62,8 @@ No momento, meu objetivo é <strong>consolidar bem a base</strong>, evoluindo gr
   
 ### 💌 Connect
   
-[![Static Badge](https://img.shields.io/badge/email-%23DE3163?style=for-the-badge)](mailto:rayssakelly0@hotmail.com)
+[![Static Badge](https://img.shields.io/badge/email-%23DE3163?style=for-the-badge)](mailto:rayssakelly0@hotmail.com) [![Static Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayssa-kelly/)
+
   
 </div>
 
@@ -75,5 +76,5 @@ No momento, meu objetivo é <strong>consolidar bem a base</strong>, evoluindo gr
   </picture>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=00008B&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=00008B&section=footer"/> 
 
