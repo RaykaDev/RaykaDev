@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=00008B"/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 <br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Banner do perfil" />
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="Banner do perfil" />
 </p>
 
 <div align="center" width="150%">
@@ -76,5 +76,6 @@ No momento, meu objetivo é <strong>consolidar bem a base</strong>, evoluindo gr
   </picture>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=00008B&section=footer"/> 
+<<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
 
