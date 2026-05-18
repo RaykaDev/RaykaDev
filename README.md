@@ -1,22 +1,24 @@
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
-<br>
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="Banner do perfil" />
+  <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" alt="Banner do perfil"  style="border-radius: 10px;"  />
 </p>
 
-<div align="center" width="150%">
+<br>
+
+<div align="center" width="100%">
   <img src="https://readme-typing-svg.herokuapp.com?font=Yusei+Magic&weight=700&pause=1000&color=EC1392&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Rayssa.;Estudante+de+desenvolvimento+Full+Stack+"/>
 </div>
+
+
 
 <br>
 
 <div align="center">
 
 <p>
-Atualmente, meu foco está voltado para <strong>JavaScript e fundamentos de front-end</strong>.<br>
-Tenho direcionado meus estudos para a <strong>reconstrução de projetos</strong>, priorizando autonomia, revisão constante e uma compreensão <strong>estruturada e progressiva</strong> dos conceitos — especialmente lógica, manipulação do DOM e organização do código.
+Atualmente, estou aprofundando meus estudos em <strong>JavaScript, Python e fundamentos do desenvolvimento full stack<strong/>, com foco em lógica, estruturação e prática constante.<br>
+Tenho direcionado também meus estudos para a <strong>reconstrução de projetos</strong>, priorizando autonomia, revisão constante e uma compreensão <strong>ordenada e progressiva</strong> dos conceitos — especialmente lógica e organização do código.
 </p>
 
 <p>
@@ -74,6 +76,6 @@ No momento, meu objetivo é <strong>consolidar bem a base</strong>, evoluindo gr
   </picture>
 </div>
 
-<<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 
