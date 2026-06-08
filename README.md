@@ -1,7 +1,8 @@
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+<br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" alt="Banner do perfil"  style="border-radius: 10px;"  />
+  <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" alt="gif do perfil"  style="border-radius: 10px;"  />
 </p>
 
 <br>
@@ -14,7 +15,7 @@
 
 <br>
 
-<div align="center">
+<div>
 
 <p>
 Atualmente, estou aprofundando meus estudos em <strong>JavaScript, Python e fundamentos do desenvolvimento full stack<strong/>, com foco em lógica, estruturação e prática constante.<br>
@@ -29,17 +30,17 @@ No momento, meu objetivo é <strong>consolidar bem a base</strong>, evoluindo gr
 
 <br>
 
-<div align="center">
-  <em>Stack em desenvolvimento</em>
-</div>
-
-<div align="center" style="display: inline_block"><br>
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"/>
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg"/>
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg"/>
-  <img width="50" src="https://skillicons.dev/icons?i=react"/>
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"/>
-  <img width="50" src="https://skillicons.dev/icons?i=python"/>
+<p align="center">
+  <strong>🚀 STACK EM DESENVOLVIMENTO 🚀</strong>
+</p>
+<br>
+<div align="center" ><br>
+  <img width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"/>
+  <img width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg"/>
+  <img width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg"/>
+  <img width="65" src="https://skillicons.dev/icons?i=react"/>
+  <img width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"/>
+  <img width="65" src="https://skillicons.dev/icons?i=python"/>
 </div>
 
 <br>
