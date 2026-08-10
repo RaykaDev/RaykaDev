@@ -27,7 +27,6 @@ Por enquanto, meu foco é consolidar essa base e evoluir de forma constante em *
   <img width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"/>
   <img width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg"/>
   <img width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg"/>
-  <img width="65" src="https://skillicons.dev/icons?i=react"/>
   <img width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"/>
   <img width="65" src="https://skillicons.dev/icons?i=python"/>
   <img width="65" src="https://skillicons.dev/icons?i=fastapi"/>
